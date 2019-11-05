@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "52263757837",
+    "firebase_url": "https://plank-wood.firebaseio.com",
+    "project_id": "plank-wood",
+    "storage_bucket": "plank-wood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52263757837:android:13acfd41d4a5bef9548d44",
+        "android_client_info": {
+          "package_name": "com.example.shopping_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52263757837-6jufbl7ar0lee6sp2livi5aul76ni242.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgOfR7aSgHWqJajMpFeo8cZ4OT4Hx8ikk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52263757837-6jufbl7ar0lee6sp2livi5aul76ni242.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
