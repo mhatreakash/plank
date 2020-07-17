@@ -108,22 +108,6 @@ class _ProductDetailsState extends State<ProductDetails> {
                   onPressed: () {},
                   child: Row(
                     children: <Widget>[
-                      Text("Size"),
-                      IconButton(
-                        onPressed: () {
-                          _showDialog("Size", "Choose Size");
-                        },
-                        icon: Icon(Icons.arrow_drop_down),
-                      ),
-                    ],
-                  ),
-                ),
-              ),
-              Expanded(
-                child: MaterialButton(
-                  onPressed: () {},
-                  child: Row(
-                    children: <Widget>[
                       Text("Color"),
                       IconButton(
                         onPressed: () {
